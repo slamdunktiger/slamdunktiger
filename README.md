@@ -39,7 +39,7 @@ Deliverable = Markdown runbook / QA pack — never a deploy.
 
 - **GTM & Sales Enablement Leader** — AI/ML revenue growth (Ex-Zoho Evangelist)
 - **Head of Marketing & Interim VP of Sales** — Fracta AI (AI/ML water-utility SaaS, ~100-200 employees, global Kurita co-marketing)
-- **Working DJ** — 800+ weddings, 1000+ school events, 49ers at Candlestick (Yelp: DJ Warren Fremont)
+- **DJ** — 800+ weddings, 1000+ school events, 49ers at Candlestick ([Yelp: DJ Warren Fremont](https://www.yelp.com/biz/dj-warren-fremont-3))
 
 ---
 

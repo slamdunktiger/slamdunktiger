@@ -38,7 +38,7 @@ Deliverable = Markdown runbook / QA pack — never a deploy.
 ## 🧠 Background
 
 - **GTM & Sales Enablement Leader** — AI/ML revenue growth (Ex-Zoho Evangelist)
-- **Interim VP of Sales** — Fracta AI (AI/ML water-utility SaaS, ~100-200 employees, global Kurita co-marketing)
+- **Head of Marketing & Interim VP of Sales** — Fracta AI (AI/ML water-utility SaaS, ~100-200 employees, global Kurita co-marketing)
 - **Working DJ** — 800+ weddings, 1000+ school events, 49ers at Candlestick (Yelp: DJ Warren Fremont)
 - **Target role:** TikTok Trust & Safety — HITL QA on AI systems
 

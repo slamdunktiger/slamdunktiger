@@ -47,7 +47,6 @@ Deliverable = Markdown runbook / QA pack — never a deploy.
 
 - **RentAHuman:** [Warren Wong profile](https://rentahuman.ai/@sweetcola) (Verified, 5★)
 - **LinkedIn:** [linkedin.com/in/warrenwong](https://linkedin.com/in/warrenwong)
-- **Email:** warren@sweetcola.com
 
 ---
 
